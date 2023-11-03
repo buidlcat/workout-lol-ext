@@ -1,0 +1,11 @@
+{
+    "appName": {
+        "message": "workout-lol-ext"
+    },
+    "appShortName": {
+        "message": "workout-lol-ext"
+    },
+    "appDescription": {
+        "message": "Add links to MuscleWiki from workout.lol"
+    }
+}

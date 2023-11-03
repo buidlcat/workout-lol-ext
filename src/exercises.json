@@ -1,0 +1,3846 @@
+[
+    {
+        "url": "https://musclewiki.com/barbell/male/biceps/barbell-curl",
+        "slug": "barbell-curl"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/biceps/dumbbell-curl",
+        "slug": "dumbbell-curl"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/biceps/dumbbell-hammer-curl",
+        "slug": "dumbbell-hammer-curl"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/anterior-deltoid/barbell-bench-press",
+        "slug": "barbell-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/triceps/dips",
+        "slug": "dips"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/anterior-deltoid/dumbbell-incline-chest-flys",
+        "slug": "dumbbell-incline-chest-flys"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-squat",
+        "slug": "barbell-squat"
+    },
+    {
+        "url": "https://musclewiki.com/machine/male/quads/machine-leg-press",
+        "slug": "machine-leg-press"
+    },
+    {
+        "url": "https://musclewiki.com/machine/male/quads/machine-leg-extension",
+        "slug": "machine-leg-extension"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-goblet-squat",
+        "slug": "dumbbell-goblet-squat"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/traps/dumbbell-seated-shrug",
+        "slug": "dumbbell-seated-shrug"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/triceps/dips-narrow-elbows",
+        "slug": "dips-narrow-elbows"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-seated-overhead-tricep-extension",
+        "slug": "dumbbell-seated-overhead-tricep-extension"
+    },
+    {
+        "url": "https://musclewiki.com/machine/male/triceps/machine-cable-v-bar-push-downs",
+        "slug": "machine-cable-v-bar-push-downs"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/triceps/bench-dips",
+        "slug": "bench-dips"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-lateral-raise",
+        "slug": "dumbbell-lateral-raise"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-rear-delt-fly",
+        "slug": "dumbbell-rear-delt-fly"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/shoulders/machine-face-pulls",
+        "slug": "machine-face-pulls"
+    },
+    {
+        "url": "https://musclewiki.com/machine/male/lats/machine-pulldown",
+        "slug": "machine-pulldown"
+    },
+    {
+        "url": "https://musclewiki.com/machine/male/traps-middle/machine-seated-cable-row",
+        "slug": "machine-seated-cable-row"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/traps-middle/pull-ups",
+        "slug": "pull-ups"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/traps-middle/dumbbell-row-bilateral",
+        "slug": "dumbbell-row-bilateral"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-stiff-leg-deadlifts",
+        "slug": "barbell-stiff-leg-deadlifts"
+    },
+    {
+        "url": "https://musclewiki.com/machine/male/hamstrings/machine-hamstring-curl",
+        "slug": "machine-hamstring-curl"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/glute-bridge",
+        "slug": "glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-hip-thrust",
+        "slug": "barbell-hip-thrust"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/forearms/barbell-behind-the-back-wrist-curl",
+        "slug": "barbell-behind-the-back-wrist-curl"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/forearms/dumbbell-wrist-curl",
+        "slug": "dumbbell-wrist-curl"
+    },
+    {
+        "url": "https://musclewiki.com/machine/male/calves/machine-standing-calf-raises",
+        "slug": "machine-standing-calf-raises"
+    },
+    {
+        "url": "https://musclewiki.com/machine/male/calves/machine-seated-calf-raises",
+        "slug": "machine-seated-calf-raises"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/abdominals/crunches",
+        "slug": "crunches"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/abdominals/laying-leg-raises",
+        "slug": "laying-leg-raises"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/traps-middle/barbell-deadlift",
+        "slug": "barbell-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/machine/male/lowerback/machine-45-degree-back-extension",
+        "slug": "machine-45-degree-back-extension"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/quads/bulgarian-split-squat",
+        "slug": "bulgarian-split-squat"
+    },
+    {
+        "url": "https://musclewiki.com/machine/male/traps/smith-machine-standing-shrugs",
+        "slug": "smith-machine-standing-shrugs"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/triceps/barbell-laying-triceps-extensions",
+        "slug": "barbell-laying-triceps-extensions"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-seated-overhead-press",
+        "slug": "dumbbell-seated-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-front-raise",
+        "slug": "dumbbell-front-raise"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-seated-rear-delt-fly",
+        "slug": "dumbbell-seated-rear-delt-fly"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/wrist-flexors/barbell-bent-over-row",
+        "slug": "barbell-bent-over-row"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/single-leg-glute-bridge",
+        "slug": "single-leg-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/forearms/barbell-wrist-curl",
+        "slug": "barbell-wrist-curl"
+    },
+    {
+        "url": "https://musclewiki.com/machine/male/abdominals/machine-roll-outs",
+        "slug": "machine-roll-outs"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/anterior-deltoid/barbell-incline-bench-press",
+        "slug": "barbell-incline-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/triceps/kettlebell-skull-crusher",
+        "slug": "kettlebell-skull-crusher"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/abdominals/kettlebell-situp",
+        "slug": "kettlebell-situp"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/abdominals/kettlebell-russian-twist",
+        "slug": "kettlebell-russian-twist"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/obliques/kettlebell-wood-chopper",
+        "slug": "kettlebell-wood-chopper"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/abdominals/kettlebell-windmill",
+        "slug": "kettlebell-windmill"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/biceps/kettlebell-goblet-curl",
+        "slug": "kettlebell-goblet-curl"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/biceps/kettlebell-concentration-curl",
+        "slug": "kettlebell-concentration-curl"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/biceps/kettlebell-preacher-curl",
+        "slug": "kettlebell-preacher-curl"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/calves/kettlebell-single-leg-calf-raise",
+        "slug": "kettlebell-single-leg-calf-raise"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/calves/kettlebell-calf-raise",
+        "slug": "kettlebell-calf-raise"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/calves/kettlebell-seated-calf-raise",
+        "slug": "kettlebell-seated-calf-raise"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/chest/kettlebell-chest-press-single",
+        "slug": "kettlebell-chest-press-single"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/chest/kettlebell-single-arm-chest-fly",
+        "slug": "kettlebell-single-arm-chest-fly"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/chest/kettlebell-single-arm-press",
+        "slug": "kettlebell-single-arm-press"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/chest/kettlebell-walkover-pushup",
+        "slug": "kettlebell-walkover-pushup"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/forearms/kettlebell-farmers-carry",
+        "slug": "kettlebell-farmers-carry"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/forearms/kettlebell-wrist-extension",
+        "slug": "kettlebell-wrist-extension"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/forearms/kettlebell-wrist-curl",
+        "slug": "kettlebell-wrist-curl"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/glutes/kettlebell-glute-bridge",
+        "slug": "kettlebell-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/glutes/kettlebell-single-leg-glute-bridge",
+        "slug": "kettlebell-single-leg-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/glutes/kettlebell-hip-thrust",
+        "slug": "kettlebell-hip-thrust"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/glutes/kettlebell-single-leg-hip-thrust",
+        "slug": "kettlebell-single-leg-hip-thrust"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/traps-middle/kettlebell-deadlift-single",
+        "slug": "kettlebell-deadlift-single"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/lowerback/kettlebell-swing",
+        "slug": "kettlebell-swing"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/traps-middle/kettlebell-row-single",
+        "slug": "kettlebell-row-single"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/hamstrings/kettlebell-single-leg-deadlift",
+        "slug": "kettlebell-single-leg-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/lats/kettlebell-shoulder-extension",
+        "slug": "kettlebell-shoulder-extension"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/lowerback/kettlebell-staggered-deadlift-single",
+        "slug": "kettlebell-staggered-deadlift-single"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/lowerback/kettlebell-goblet-good-morning",
+        "slug": "kettlebell-goblet-good-morning"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/shoulders/kettlebell-rear-delt-row",
+        "slug": "kettlebell-rear-delt-row"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/shoulders/kettlebell-front-raise",
+        "slug": "kettlebell-front-raise"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/shoulders/kettlebell-single-arm-rear-delt-fly",
+        "slug": "kettlebell-single-arm-rear-delt-fly"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/biceps/kettlebell-single-arm-curl",
+        "slug": "kettlebell-single-arm-curl"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/triceps/kettlebell-standing-tricep-extension",
+        "slug": "kettlebell-standing-tricep-extension"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/triceps/kettlebell-decline-skull-crusher",
+        "slug": "kettlebell-decline-skull-crusher"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/lats/kettlebell-single-arm-row",
+        "slug": "kettlebell-single-arm-row"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/lats/kettlebell-pullover",
+        "slug": "kettlebell-pullover"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/shoulders/kettlebell-long-lever-lateral-raise",
+        "slug": "kettlebell-long-lever-lateral-raise"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/shoulders/kettlebell-single-arm-lateral-raise",
+        "slug": "kettlebell-single-arm-lateral-raise"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/traps/kettlebell-shrug-single",
+        "slug": "kettlebell-shrug-single"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/lateral-deltoid/kettlebell-upright-row",
+        "slug": "kettlebell-upright-row"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/traps-middle/kettlebell-silverback-shrug-single",
+        "slug": "kettlebell-silverback-shrug-single"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/traps-middle/kettlebell-incline-shrug",
+        "slug": "kettlebell-incline-shrug"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/quads/kettlebell-step-up",
+        "slug": "kettlebell-step-up"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/quads/kettlebell-goblet-squat",
+        "slug": "kettlebell-goblet-squat"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/quads/kettlebell-heels-up-goblet-squat",
+        "slug": "kettlebell-heels-up-goblet-squat"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/quads/kettlebell-single-arm-reverse-lunge",
+        "slug": "kettlebell-single-arm-reverse-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/quads/kettlebell-single-arm-forward-lunge",
+        "slug": "kettlebell-single-arm-forward-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/quads/kettlebell-lateral-lunge-single",
+        "slug": "kettlebell-lateral-lunge-single"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/triceps/kettlebell-tate-press",
+        "slug": "kettlebell-tate-press"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/biceps/biceps-stretch-variation-five",
+        "slug": "biceps-stretch-variation-five"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/biceps/biceps-stretch-variation-four",
+        "slug": "biceps-stretch-variation-four"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/biceps/biceps-stretch-variation-three",
+        "slug": "biceps-stretch-variation-three"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/biceps/biceps-stretch-variation-two",
+        "slug": "biceps-stretch-variation-two"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/biceps/biceps-stretch-variation-one",
+        "slug": "biceps-stretch-variation-one"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/chest/chest-stretch-variation-four",
+        "slug": "chest-stretch-variation-four"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/chest/chest-stretch-variation-three",
+        "slug": "chest-stretch-variation-three"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/chest/chest-stretch-variation-two",
+        "slug": "chest-stretch-variation-two"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/chest/chest-stretch-variation-one",
+        "slug": "chest-stretch-variation-one"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/quads/quads-stretch-variation-four",
+        "slug": "quads-stretch-variation-four"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/quads/quads-stretch-variation-three",
+        "slug": "quads-stretch-variation-three"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/quads/quads-stretch-variation-two",
+        "slug": "quads-stretch-variation-two"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/quads/quads-stretch-variation-one",
+        "slug": "quads-stretch-variation-one"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/traps/traps-stretch-variation-three",
+        "slug": "traps-stretch-variation-three"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/traps/traps-stretch-variation-two",
+        "slug": "traps-stretch-variation-two"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/traps/traps-stretch-variation-one",
+        "slug": "traps-stretch-variation-one"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/triceps/triceps-stretch-variation-three",
+        "slug": "triceps-stretch-variation-three"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/triceps/triceps-stretch-variation-two",
+        "slug": "triceps-stretch-variation-two"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/triceps/triceps-stretch-variation-one",
+        "slug": "triceps-stretch-variation-one"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/shoulders/shoulders-stretch-variation-four",
+        "slug": "shoulders-stretch-variation-four"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/shoulders/shoulders-stretch-variation-three",
+        "slug": "shoulders-stretch-variation-three"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/shoulders/shoulders-stretch-variation-two",
+        "slug": "shoulders-stretch-variation-two"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/shoulders/shoulders-stretch-variation-one",
+        "slug": "shoulders-stretch-variation-one"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/lats/lats-stretch-variation-three",
+        "slug": "lats-stretch-variation-three"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/lats/lats-stretch-variation-two",
+        "slug": "lats-stretch-variation-two"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/lats/lats-stretch-variation-one",
+        "slug": "lats-stretch-variation-one"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/hamstrings/hamstrings-stretch-variation-four",
+        "slug": "hamstrings-stretch-variation-four"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/hamstrings/hamstrings-stretch-variation-three",
+        "slug": "hamstrings-stretch-variation-three"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/hamstrings/hamstrings-stretch-variation-two",
+        "slug": "hamstrings-stretch-variation-two"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/hamstrings/hamstrings-stretch-variation-one",
+        "slug": "hamstrings-stretch-variation-one"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/glutes/glutes-stretch-variation-three",
+        "slug": "glutes-stretch-variation-three"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/glutes/glutes-stretch-variation-two",
+        "slug": "glutes-stretch-variation-two"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/glutes/glutes-stretch-variation-one",
+        "slug": "glutes-stretch-variation-one"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/forearms/forearms-stretch-variation-four",
+        "slug": "forearms-stretch-variation-four"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/forearms/forearms-stretch-variation-three",
+        "slug": "forearms-stretch-variation-three"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/forearms/forearms-stretch-variation-two",
+        "slug": "forearms-stretch-variation-two"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/forearms/forearms-stretch-variation-one",
+        "slug": "forearms-stretch-variation-one"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/calves/calves-stretch-variation-three",
+        "slug": "calves-stretch-variation-three"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/calves/calves-stretch-variation-two",
+        "slug": "calves-stretch-variation-two"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/calves/calves-stretch-variation-one",
+        "slug": "calves-stretch-variation-one"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/abdominals/abdominals-stretch-variation-four",
+        "slug": "abdominals-stretch-variation-four"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/abdominals/abdominals-stretch-variation-three",
+        "slug": "abdominals-stretch-variation-three"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/abdominals/abdominals-stretch-variation-two",
+        "slug": "abdominals-stretch-variation-two"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/abdominals/abdominals-stretch-variation-one",
+        "slug": "abdominals-stretch-variation-one"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/lowerback/lower-back-stretch-variation-four",
+        "slug": "lower-back-stretch-variation-four"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/lowerback/lower-back-stretch-variation-three",
+        "slug": "lower-back-stretch-variation-three"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/lowerback/lower-back-stretch-variation-two",
+        "slug": "lower-back-stretch-variation-two"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/lowerback/lower-back-stretch-variation-one",
+        "slug": "lower-back-stretch-variation-one"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/traps-middle/traps-mid-back-stretch-variation-two",
+        "slug": "traps-mid-back-stretch-variation-two"
+    },
+    {
+        "url": "https://musclewiki.com/stretches/male/traps-middle/traps-mid-back-stretch-variation-one",
+        "slug": "traps-mid-back-stretch-variation-one"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/chest/push-up",
+        "slug": "push-up"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/traps-middle/inverted-row",
+        "slug": "inverted-row"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/biceps/chin-ups",
+        "slug": "chin-ups"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/chest/incline-push-up",
+        "slug": "incline-push-up"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/chest/decline-push-up",
+        "slug": "decline-push-up"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/shoulders/elevated-pike-shoulder-shrug",
+        "slug": "elevated-pike-shoulder-shrug"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/side-lunges",
+        "slug": "side-lunges"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/forward-lunges",
+        "slug": "forward-lunges"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/jump-squats",
+        "slug": "jump-squats"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/quads/bodyweight-squat",
+        "slug": "bodyweight-squat"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/triceps/diamond-push-ups",
+        "slug": "diamond-push-ups"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/lowerback/good-mornings",
+        "slug": "good-mornings"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/lowerback/supermans",
+        "slug": "supermans"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/kickbacks",
+        "slug": "kickbacks"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/hamstrings/single-legged-romanian-deadlifts",
+        "slug": "single-legged-romanian-deadlifts"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/traps-middle/elevated-pike-press",
+        "slug": "elevated-pike-press"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/calves/tip-toe-walking",
+        "slug": "tip-toe-walking"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/calves/calf-raises",
+        "slug": "calf-raises"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/abdominals/forearm-plank",
+        "slug": "forearm-plank"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/abdominals/hanging-knee-raises",
+        "slug": "hanging-knee-raises"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/calves/walking-calf-raises",
+        "slug": "walking-calf-raises"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/hamstrings/nordic-hamstring-curl",
+        "slug": "nordic-hamstring-curl"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/abdominals/barbell-roll-outs",
+        "slug": "barbell-roll-outs"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/calves/barbell-calf-raises",
+        "slug": "barbell-calf-raises"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/triceps/barbell-close-grip-bench-press",
+        "slug": "barbell-close-grip-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-curtsy-lunge",
+        "slug": "barbell-curtsy-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/traps/barbell-silverback-shrug",
+        "slug": "barbell-silverback-shrug"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/obliques/barbell-landmine-side-bend",
+        "slug": "barbell-landmine-side-bend"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/chest/cable-pec-fly",
+        "slug": "cable-pec-fly"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/anterior-deltoid/cable-chest-press",
+        "slug": "cable-chest-press"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/lowerback/cable-goblet-squat",
+        "slug": "cable-goblet-squat"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/glutes/cable-split-squat",
+        "slug": "cable-split-squat"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/lowerback/cable-bar-romanian-deadlift",
+        "slug": "cable-bar-romanian-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/lowerback/cable-single-leg-deadlift",
+        "slug": "cable-single-leg-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/lowerback/cable-pull-through",
+        "slug": "cable-pull-through"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/glutes/cable-standing-hip-abduction",
+        "slug": "cable-standing-hip-abduction"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/lowerback/cable-standing-straight-leg-glute-glute-kickback",
+        "slug": "cable-standing-straight-leg-glute-glute-kickback"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/hamstrings/cable-hamstring-curl",
+        "slug": "cable-hamstring-curl"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/shoulders/cable-overhead-press",
+        "slug": "cable-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/shoulders/cable-low-single-arm-lateral-raise",
+        "slug": "cable-low-single-arm-lateral-raise"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/shoulders/cable-high-single-arm-rear-delt-fly",
+        "slug": "cable-high-single-arm-rear-delt-fly"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/shoulders/cable-upright-row",
+        "slug": "cable-upright-row"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/forearms/cable-wrist-curl",
+        "slug": "cable-wrist-curl"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/forearms/cable-wrist-extension",
+        "slug": "cable-wrist-extension"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/lats/cable-lat-prayer",
+        "slug": "cable-lat-prayer"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/lats/cable-bent-over-bar-pullover",
+        "slug": "cable-bent-over-bar-pullover"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/lats/cable-pull-in",
+        "slug": "cable-pull-in"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/traps/cable-30-degree-shrug",
+        "slug": "cable-30-degree-shrug"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/traps-middle/cable-silverback-shrug",
+        "slug": "cable-silverback-shrug"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/biceps/cable-twisting-curl",
+        "slug": "cable-twisting-curl"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/biceps/cable-single-arm-bayesian-curl",
+        "slug": "cable-single-arm-bayesian-curl"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/biceps/cable-single-arm-reverse-curl",
+        "slug": "cable-single-arm-reverse-curl"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/biceps/cable-single-arm-hammer-curl",
+        "slug": "cable-single-arm-hammer-curl"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/triceps/cable-rope-pushdown",
+        "slug": "cable-rope-pushdown"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/triceps/cable-cross-pushdown",
+        "slug": "cable-cross-pushdown"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/triceps/cable-rope-skullcrusher",
+        "slug": "cable-rope-skullcrusher"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/triceps/cable-rope-overhead-tricep-extension",
+        "slug": "cable-rope-overhead-tricep-extension"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/calves/cable-calve-raise",
+        "slug": "cable-calve-raise"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/quads/cable-standing-leg-extension",
+        "slug": "cable-standing-leg-extension"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/obliques/cable-wood-chopper",
+        "slug": "cable-wood-chopper"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/abdominals/cable-standing-crunch",
+        "slug": "cable-standing-crunch"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/abdominals/cable-row-bar-kneeling-crunch",
+        "slug": "cable-row-bar-kneeling-crunch"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/obliques/cable-pallof-press",
+        "slug": "cable-pallof-press"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/calves/band-calf-raise",
+        "slug": "band-calf-raise"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/chest/band-single-arm-pec-fly",
+        "slug": "band-single-arm-pec-fly"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/chest/band-single-arm-chest-press",
+        "slug": "band-single-arm-chest-press"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/obliques/band-wood-chopper",
+        "slug": "band-wood-chopper"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/shoulders/band-face-pull",
+        "slug": "band-face-pull"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/glutes/band-spanish-squat",
+        "slug": "band-spanish-squat"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/abdominals/band-crunch",
+        "slug": "band-crunch"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/biceps/band-bayesian-curl",
+        "slug": "band-bayesian-curl"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/shoulders/band-front-raise",
+        "slug": "band-front-raise"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/lowerback/band-good-morning",
+        "slug": "band-good-morning"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/biceps/band-bayesian-hammer-curl",
+        "slug": "band-bayesian-hammer-curl"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/traps-middle/band-horizontal-shrug",
+        "slug": "band-horizontal-shrug"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/glutes/band-glute-kickback",
+        "slug": "band-glute-kickback"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/biceps/band-kneeling-single-arm-pulldown",
+        "slug": "band-kneeling-single-arm-pulldown"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/shoulders/band-lateral-raise",
+        "slug": "band-lateral-raise"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/glutes/band-leg-press",
+        "slug": "band-leg-press"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/triceps/band-overhead-tricep-extension",
+        "slug": "band-overhead-tricep-extension"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/obliques/band-pallof-press",
+        "slug": "band-pallof-press"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/traps-middle/band-pull-apart",
+        "slug": "band-pull-apart"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/lats/band-pullover",
+        "slug": "band-pullover"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/lowerback/band-pullthrough",
+        "slug": "band-pullthrough"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/triceps/band-pushdown",
+        "slug": "band-pushdown"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/triceps/band-pushup",
+        "slug": "band-pushup"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/lowerback/band-romanian-deadlift",
+        "slug": "band-romanian-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/biceps/band-bayesian-reverse-curl",
+        "slug": "band-bayesian-reverse-curl"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/lats/band-row",
+        "slug": "band-row"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/shoulders/band-single-arm-overhead-press",
+        "slug": "band-single-arm-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/traps/band-shrug",
+        "slug": "band-shrug"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/triceps/band-skullcrusher",
+        "slug": "band-skullcrusher"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/glutes/band-squat",
+        "slug": "band-squat"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/biceps/dumbbell-reverse-curl",
+        "slug": "dumbbell-reverse-curl"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/traps-middle/dumbbell-row-unilateral",
+        "slug": "dumbbell-row-unilateral"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/lowerback/dumbbell-goblet-good-morning",
+        "slug": "dumbbell-goblet-good-morning"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-goblet-bulgarian-split-squat",
+        "slug": "dumbbell-goblet-bulgarian-split-squat"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-skullcrusher",
+        "slug": "dumbbell-skullcrusher"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-hip-thrust",
+        "slug": "dumbbell-hip-thrust"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/obliques/dumbbell-wood-chopper",
+        "slug": "dumbbell-wood-chopper"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/abdominals/dumbbell-situp",
+        "slug": "dumbbell-situp"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/abdominals/dumbbell-russian-twist",
+        "slug": "dumbbell-russian-twist"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/traps/dumbbell-shrug",
+        "slug": "dumbbell-shrug"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/lowerback/dumbbell-romanian-deadlift",
+        "slug": "dumbbell-romanian-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/abdominals/dumbbell-plank-pullthrough",
+        "slug": "dumbbell-plank-pullthrough"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-glute-bridge",
+        "slug": "dumbbell-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/calves/dumbbell-calf-raise",
+        "slug": "dumbbell-calf-raise"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-bulgarian-split-squat",
+        "slug": "barbell-bulgarian-split-squat"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/triceps/barbell-floor-press",
+        "slug": "barbell-floor-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/shoulders/barbell-front-raise",
+        "slug": "barbell-front-raise"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-front-squat-olympic",
+        "slug": "barbell-front-squat-olympic"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-front-squat-bodybuilding",
+        "slug": "barbell-front-squat-bodybuilding"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/lowerback/barbell-high-bar-good-morning",
+        "slug": "barbell-high-bar-good-morning"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/lowerback/barbell-low-bar-good-morning",
+        "slug": "barbell-low-bar-good-morning"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/shoulders/barbell-overhead-press",
+        "slug": "barbell-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/shoulders/barbell-upright-row",
+        "slug": "barbell-upright-row"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/lowerback/barbell-sumo-deadlift",
+        "slug": "barbell-sumo-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/lowerback/barbell-staggered-deadlift",
+        "slug": "barbell-staggered-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/triceps/barbell-skullcrusher",
+        "slug": "barbell-skullcrusher"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/lowerback/barbell-single-leg-deadlift",
+        "slug": "barbell-single-leg-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/abdominals/barbell-situp",
+        "slug": "barbell-situp"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/biceps/barbell-reverse-curl",
+        "slug": "barbell-reverse-curl"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/triceps/barbell-overhead-tricep-extension",
+        "slug": "barbell-overhead-tricep-extension"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/lowerback/barbell-romanian-deadlift",
+        "slug": "barbell-romanian-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-high-bar-squat",
+        "slug": "barbell-high-bar-squat"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-low-bar-squat",
+        "slug": "barbell-low-bar-squat"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/forearms/dumbbell-wrist-extension",
+        "slug": "dumbbell-wrist-extension"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-bulgarian-split-squat",
+        "slug": "dumbbell-bulgarian-split-squat"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/traps-middle/dumbbell-rear-delt-row",
+        "slug": "dumbbell-rear-delt-row"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/abdominals/bodyweight-russian-twist",
+        "slug": "bodyweight-russian-twist"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/obliques/side-plank-up-down",
+        "slug": "side-plank-up-down"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/obliques/side-plank-reach-through",
+        "slug": "side-plank-reach-through"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/abdominals/long-lever-plank",
+        "slug": "long-lever-plank"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/obliques/elbow-side-plank",
+        "slug": "elbow-side-plank"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/obliques/hand-side-plank",
+        "slug": "hand-side-plank"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/abdominals/hand-plank",
+        "slug": "hand-plank"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/abdominals/hollow-hold",
+        "slug": "hollow-hold"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/calves/barbell-calf-jump",
+        "slug": "barbell-calf-jump"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/lowerback/barbell-coan-deadlift",
+        "slug": "barbell-coan-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-forward-lunge",
+        "slug": "barbell-forward-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-front-rack-step-up",
+        "slug": "barbell-front-rack-step-up"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-glute-bridge",
+        "slug": "barbell-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-heels-up-back-squat",
+        "slug": "barbell-heels-up-back-squat"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-heels-up-front-squat",
+        "slug": "barbell-heels-up-front-squat"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/triceps/barbell-hooklying-bench-press",
+        "slug": "barbell-hooklying-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/biceps/barbell-landmine-row",
+        "slug": "barbell-landmine-row"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/abdominals/barbell-larsen-bench-press",
+        "slug": "barbell-larsen-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-lateral-lunge",
+        "slug": "barbell-lateral-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/biceps/barbell-long-landmine-row",
+        "slug": "barbell-long-landmine-row"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/biceps/barbell-meadows-row",
+        "slug": "barbell-meadows-row"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/lowerback/barbell-pause-box-squat",
+        "slug": "barbell-pause-box-squat"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/lowerback/barbell-pause-squat",
+        "slug": "barbell-pause-squat"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/biceps/barbell-pronated-pendlay-row",
+        "slug": "barbell-pronated-pendlay-row"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/biceps/barbell-pronated-row",
+        "slug": "barbell-pronated-row"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/lowerback/barbell-reverse-deadlift",
+        "slug": "barbell-reverse-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-reverse-lunge",
+        "slug": "barbell-reverse-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/quads/bodyweight-reverse-step-up",
+        "slug": "bodyweight-reverse-step-up"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/calves/barbell-seated-calf-raise",
+        "slug": "barbell-seated-calf-raise"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/traps/barbell-shrug",
+        "slug": "barbell-shrug"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-side-step-up",
+        "slug": "barbell-side-step-up"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/lowerback/barbell-snatch-grip-deadlift",
+        "slug": "barbell-snatch-grip-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/lowerback/barbell-snatch-grip-romanian-deadlift",
+        "slug": "barbell-snatch-grip-romanian-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-split-squat",
+        "slug": "barbell-split-squat"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/triceps/barbell-spoto-press",
+        "slug": "barbell-spoto-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-step-up-balance",
+        "slug": "barbell-step-up-balance"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-step-up",
+        "slug": "barbell-step-up"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/lowerback/barbell-suitcase-deadlift",
+        "slug": "barbell-suitcase-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/biceps/barbell-supinated-pendlay-row",
+        "slug": "barbell-supinated-pendlay-row"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/biceps/barbell-supinated-row",
+        "slug": "barbell-supinated-row"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-tap-pause-squat",
+        "slug": "barbell-tap-pause-squat"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/calves/barbell-toes-up-calf-raise",
+        "slug": "barbell-toes-up-calf-raise"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/lowerback/barbell-zercher-good-morning",
+        "slug": "barbell-zercher-good-morning"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/lowerback/barbell-zercher-squat",
+        "slug": "barbell-zercher-squat"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/shoulders/barbell-z-press",
+        "slug": "barbell-z-press"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/assisted-bulgarian-split-squat",
+        "slug": "assisted-bulgarian-split-squat"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/curtsy-lunge",
+        "slug": "curtsy-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/forward-lunge",
+        "slug": "forward-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/heels-up-squat",
+        "slug": "heels-up-squat"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/lateral-lunge",
+        "slug": "lateral-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/hamstrings/bodyweight-reverse-lunge",
+        "slug": "bodyweight-reverse-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/split-squat",
+        "slug": "split-squat"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-alternating-single-arm-press",
+        "slug": "dumbbell-alternating-single-arm-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-bayesian-lateral-raise",
+        "slug": "dumbbell-bayesian-lateral-raise"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-bench-press",
+        "slug": "dumbbell-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/chest/dumbbell-chest-fly",
+        "slug": "dumbbell-chest-fly"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-decline-alternating-single-arm-press",
+        "slug": "dumbbell-decline-alternating-single-arm-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-decline-bench-press",
+        "slug": "dumbbell-decline-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/chest/dumbbell-decline-chest-fly",
+        "slug": "dumbbell-decline-chest-fly"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-decline-guillotine-bench-press",
+        "slug": "dumbbell-decline-guillotine-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-decline-neutral-bench-press",
+        "slug": "dumbbell-decline-neutral-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-decline-single-arm-bench-press",
+        "slug": "dumbbell-decline-single-arm-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-decline-skullcrusher",
+        "slug": "dumbbell-decline-skullcrusher"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-decline-squeeze-press",
+        "slug": "dumbbell-decline-squeeze-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-forward-lunge",
+        "slug": "dumbbell-forward-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-goblet-bulgarian-split-squat",
+        "slug": "dumbbell-goblet-bulgarian-split-squat"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-goblet-curtsy-lunge",
+        "slug": "dumbbell-goblet-curtsy-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-goblet-forward-lunge",
+        "slug": "dumbbell-goblet-forward-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-goblet-lateral-lunge",
+        "slug": "dumbbell-goblet-lateral-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-goblet-reverse-lunge",
+        "slug": "dumbbell-goblet-reverse-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-goblet-split-squat",
+        "slug": "dumbbell-goblet-split-squat"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-guillotine-bench-press",
+        "slug": "dumbbell-guillotine-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-guillotine-incline-bench-press",
+        "slug": "dumbbell-guillotine-incline-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/anterior-deltoid/dumbbell-incline-bench-press",
+        "slug": "dumbbell-incline-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/chest/dumbbell-incline-chest-fly",
+        "slug": "dumbbell-incline-chest-fly"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/biceps/dumbbell-incline-hammer-curl",
+        "slug": "dumbbell-incline-hammer-curl"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/biceps/dumbbell-incline-reverse-curl",
+        "slug": "dumbbell-incline-reverse-curl"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/biceps/dumbbell-incline-zottman-curl",
+        "slug": "dumbbell-incline-zottman-curl"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/chest/dumbbell-internally-rotated-chest-fly",
+        "slug": "dumbbell-internally-rotated-chest-fly"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/chest/dumbbell-internally-rotated-incline-chest-fly",
+        "slug": "dumbbell-internally-rotated-incline-chest-fly"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-lateral-lunge-reach",
+        "slug": "dumbbell-lateral-lunge-reach"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/traps/dumbbell-laying-30-degree-shrug",
+        "slug": "dumbbell-laying-30-degree-shrug"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-laying-reverse-fly",
+        "slug": "dumbbell-laying-reverse-fly"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-laying-reverse-fly-internally-rotated",
+        "slug": "dumbbell-laying-reverse-fly-internally-rotated"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/traps-middle/dumbbell-laying-silverback-shrug",
+        "slug": "dumbbell-laying-silverback-shrug"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-neutral-bench-press",
+        "slug": "dumbbell-neutral-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-neutral-incline-bench-press",
+        "slug": "dumbbell-neutral-incline-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-neutral-seated-overhead-press",
+        "slug": "dumbbell-neutral-seated-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/lats/dumbbell-pullover",
+        "slug": "dumbbell-pullover"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-reverse-lunge",
+        "slug": "dumbbell-reverse-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-rolling-tricep-extension",
+        "slug": "dumbbell-rolling-tricep-extension"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-seated-arnold-press",
+        "slug": "dumbbell-seated-arnold-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-squeeze-press",
+        "slug": "dumbbell-squeeze-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-single-arm-press",
+        "slug": "dumbbell-single-arm-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-split-squat",
+        "slug": "dumbbell-split-squat"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-alternating-arnold-press",
+        "slug": "dumbbell-alternating-arnold-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-alternating-overhead-press",
+        "slug": "dumbbell-alternating-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/biceps/dumbbell-alternating-pendlay-row",
+        "slug": "dumbbell-alternating-pendlay-row"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-arnold-press",
+        "slug": "dumbbell-arnold-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-figure-four-glute-bridge",
+        "slug": "dumbbell-figure-four-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-figure-four-hip-thrust",
+        "slug": "dumbbell-figure-four-hip-thrust"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/lowerback/dumbbell-front-rack-pause-squat",
+        "slug": "dumbbell-front-rack-pause-squat"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-front-rack-squat",
+        "slug": "dumbbell-front-rack-squat"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-goblet-pulse-squat",
+        "slug": "dumbbell-goblet-pulse-squat"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/abdominals/dumbbell-half-kneeling-wood-chopper",
+        "slug": "dumbbell-half-kneeling-wood-chopper"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-heels-up-goblet-squat",
+        "slug": "dumbbell-heels-up-goblet-squat"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-heels-up-narrow-goblet-squat",
+        "slug": "dumbbell-heels-up-narrow-goblet-squat"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/abdominals/dumbbell-hollow-hold",
+        "slug": "dumbbell-hollow-hold"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/biceps/dumbbell-kneeling-single-arm-row",
+        "slug": "dumbbell-kneeling-single-arm-row"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/obliques/dumbbell-kneeling-wood-chopper",
+        "slug": "dumbbell-kneeling-wood-chopper"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/biceps/dumbbell-laying-incline-row",
+        "slug": "dumbbell-laying-incline-row"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/hamstrings/dumbbell-leg-curl",
+        "slug": "dumbbell-leg-curl"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/quads/dumbbell-leg-extension",
+        "slug": "dumbbell-leg-extension"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-neutral-alternating-overhead-press",
+        "slug": "dumbbell-neutral-alternating-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-neutral-overhead-press",
+        "slug": "dumbbell-neutral-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-offset-squat",
+        "slug": "dumbbell-offset-squat"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-overhead-press",
+        "slug": "dumbbell-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/obliques/dumbbell-overhead-side-bend",
+        "slug": "dumbbell-overhead-side-bend"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-overhead-tricep-extension",
+        "slug": "dumbbell-overhead-tricep-extension"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/biceps/dumbbell-pendlay-row",
+        "slug": "dumbbell-pendlay-row"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-push-press",
+        "slug": "dumbbell-push-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/abdominals/dumbbell-renegade-row",
+        "slug": "dumbbell-renegade-row"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/calves/dumbbell-seated-calf-raise",
+        "slug": "dumbbell-seated-calf-raise"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/lats/dumbbell-shoulder-extension",
+        "slug": "dumbbell-shoulder-extension"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/obliques/dumbbell-side-plank-up-down",
+        "slug": "dumbbell-side-plank-up-down"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/traps-middle/dumbbell-silverback-shrug",
+        "slug": "dumbbell-silverback-shrug"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-single-arm-arnold-press",
+        "slug": "dumbbell-single-arm-arnold-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-single-arm-neutral-overhead-press",
+        "slug": "dumbbell-single-arm-neutral-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-single-arm-overhead-press",
+        "slug": "dumbbell-single-arm-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/biceps/dumbbell-single-arm-preacher-curl",
+        "slug": "dumbbell-single-arm-preacher-curl"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/biceps/dumbbell-single-arm-row",
+        "slug": "dumbbell-single-arm-row"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/biceps/dumbbell-single-arm-row-knee",
+        "slug": "dumbbell-single-arm-row-knee"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/biceps/dumbbell-single-arm-spider-curl",
+        "slug": "dumbbell-single-arm-spider-curl"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-single-leg-glute-bridge",
+        "slug": "dumbbell-single-leg-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-single-leg-hip-thrust",
+        "slug": "dumbbell-single-leg-hip-thrust"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/lowerback/dumbbell-single-leg-single-arm-deadlift",
+        "slug": "dumbbell-single-leg-single-arm-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/lowerback/dumbbell-single-leg-stiff-leg-deadlift",
+        "slug": "dumbbell-single-leg-stiff-leg-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/biceps/dumbbell-spider-curl",
+        "slug": "dumbbell-spider-curl"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/lowerback/dumbbell-staggered-deadlift",
+        "slug": "dumbbell-staggered-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-staggered-glute-bridge",
+        "slug": "dumbbell-staggered-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-staggered-hip-thrust",
+        "slug": "dumbbell-staggered-hip-thrust"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/lowerback/dumbbell-sumo-squat",
+        "slug": "dumbbell-sumo-squat"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/lowerback/dumbbell-swing",
+        "slug": "dumbbell-swing"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-thruster",
+        "slug": "dumbbell-thruster"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-tricep-kickback",
+        "slug": "dumbbell-tricep-kickback"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/biceps/dumbbell-twisting-curl",
+        "slug": "dumbbell-twisting-curl"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/obliques/dumbbell-hand-side-plank",
+        "slug": "dumbbell-hand-side-plank"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/obliques/dumbbell-elbow-side-plank",
+        "slug": "dumbbell-elbow-side-plank"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/abdominals/mountain-climber",
+        "slug": "mountain-climber"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/abdominals/burpee",
+        "slug": "burpee"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/lats/plate-alternating-deadstop-row",
+        "slug": "plate-alternating-deadstop-row"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/biceps/plate-bicep-curl",
+        "slug": "plate-bicep-curl"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/quads/plate-squat",
+        "slug": "plate-squat"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/glutes/plate-clean-and-press",
+        "slug": "plate-clean-and-press"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/triceps/plate-squat-reach",
+        "slug": "plate-squat-reach"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/glutes/plate-clean",
+        "slug": "plate-clean"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/biceps/plate-curl-to-overhead-press",
+        "slug": "plate-curl-to-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/glutes/plate-squat-hold-reach",
+        "slug": "plate-squat-hold-reach"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/biceps/plate-curl-to-overhead-press-to-tricep-extension",
+        "slug": "plate-curl-to-overhead-press-to-tricep-extension"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/glutes/plate-curtsy-lunge",
+        "slug": "plate-curtsy-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/lowerback/plate-deadlift",
+        "slug": "plate-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/biceps/plate-squat-hold-curl",
+        "slug": "plate-squat-hold-curl"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/lowerback/plate-single-leg-pinch-grip-deadlift",
+        "slug": "plate-single-leg-pinch-grip-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/shoulders/plate-car-driver",
+        "slug": "plate-car-driver"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/shoulders/plate-front-raise",
+        "slug": "plate-front-raise"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/lowerback/plate-good-morning-anterior",
+        "slug": "plate-good-morning-anterior"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/lowerback/plate-good-morning",
+        "slug": "plate-good-morning"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/shoulders/plate-halo",
+        "slug": "plate-halo"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/glutes/plate-lateral-lunge",
+        "slug": "plate-lateral-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/glutes/plate-forward-lunge",
+        "slug": "plate-forward-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/biceps/band-high-curl",
+        "slug": "band-high-curl"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/biceps/band-high-hammer-curl",
+        "slug": "band-high-hammer-curl"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/biceps/band-high-reverse-curl",
+        "slug": "band-high-reverse-curl"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/chest/band-chest-fly",
+        "slug": "band-chest-fly"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/chest/band-chest-press",
+        "slug": "band-chest-press"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/biceps/band-curl",
+        "slug": "band-curl"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/lowerback/plate-single-leg-deadlift",
+        "slug": "plate-single-leg-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/traps-middle/band-high-face-pull",
+        "slug": "band-high-face-pull"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/triceps/plate-reverse-lunge-twist",
+        "slug": "plate-reverse-lunge-twist"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/quads/plate-reverse-lunge",
+        "slug": "plate-reverse-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/glutes/band-hip-abduction",
+        "slug": "band-hip-abduction"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/glutes/band-hip-adduction",
+        "slug": "band-hip-adduction"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/chest/band-internally-rotated-chest-fly",
+        "slug": "band-internally-rotated-chest-fly"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/forearms/plate-pinch-grip-side-bend",
+        "slug": "plate-pinch-grip-side-bend"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/hamstrings/band-leg-curl",
+        "slug": "band-leg-curl"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/biceps/plate-pinch-grip-row",
+        "slug": "plate-pinch-grip-row"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/quads/band-leg-extension",
+        "slug": "band-leg-extension"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/shoulders/band-low-lateral-raise",
+        "slug": "band-low-lateral-raise"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/shoulders/band-mid-lateral-raise",
+        "slug": "band-mid-lateral-raise"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/lowerback/plate-pinch-grip-deadlift",
+        "slug": "plate-pinch-grip-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/shoulders/band-overhead-press",
+        "slug": "band-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/triceps/plate-overhead-tricep-extension",
+        "slug": "plate-overhead-tricep-extension"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/triceps/band-rapunzel-pushdown",
+        "slug": "band-rapunzel-pushdown"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/quads/plate-overhead-squat",
+        "slug": "plate-overhead-squat"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/traps-middle/band-rear-delt-fly",
+        "slug": "band-rear-delt-fly"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/biceps/band-reverse-curl",
+        "slug": "band-reverse-curl"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/shoulders/plate-overhead-press-to-tricep-extension",
+        "slug": "plate-overhead-press-to-tricep-extension"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/triceps/band-single-arm-pushdown",
+        "slug": "band-single-arm-pushdown"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/triceps/single-arm-rapunzel-pushdown",
+        "slug": "single-arm-rapunzel-pushdown"
+    },
+    {
+        "url": "https://musclewiki.com/band/male/triceps/band-single-arm-skullcrusher",
+        "slug": "band-single-arm-skullcrusher"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/glutes/plate-deficit-lunge",
+        "slug": "plate-deficit-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/triceps/plate-deficit-pushup",
+        "slug": "plate-deficit-pushup"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/shoulders/plate-full-lateral-raise",
+        "slug": "plate-full-lateral-raise"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/glutes/plate-glute-bridge-to-chest-press",
+        "slug": "plate-glute-bridge-to-chest-press"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/glutes/plate-glute-bridge-to-pullover",
+        "slug": "plate-glute-bridge-to-pullover"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/traps-middle/plate-internally-rotated-rear-delt-fly",
+        "slug": "plate-internally-rotated-rear-delt-fly"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/shoulders/plate-lateral-raise",
+        "slug": "plate-lateral-raise"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/abdominals/plate-overhead-carry",
+        "slug": "plate-overhead-carry"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/traps/plate-overhead-shrug",
+        "slug": "plate-overhead-shrug"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/glutes/plate-overhead-walking-lunge",
+        "slug": "plate-overhead-walking-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/forearms/plate-pinch-grip-farmers-carry",
+        "slug": "plate-pinch-grip-farmers-carry"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/traps-middle/plate-rear-delt-fly",
+        "slug": "plate-rear-delt-fly"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/abdominals/plate-russian-twist",
+        "slug": "plate-russian-twist"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/abdominals/plate-situp",
+        "slug": "plate-situp"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/glutes/plate-squat-hold",
+        "slug": "plate-squat-hold"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/abdominals/weighted-forearm-plank",
+        "slug": "weighted-forearm-plank"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/lowerback/plate-staggered-deadlift",
+        "slug": "plate-staggered-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/lowerback/plate-staggered-pinch-grip-deadlift",
+        "slug": "plate-staggered-pinch-grip-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/glutes/plate-thruster",
+        "slug": "plate-thruster"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/shoulders/plate-reach",
+        "slug": "plate-reach"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/obliques/plate-standing-twist",
+        "slug": "plate-standing-twist"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/abdominals/weighted-hand-plank",
+        "slug": "weighted-hand-plank"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/abdominals/plate-hollow-hold",
+        "slug": "plate-hollow-hold"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/obliques/plate-wood-chopper",
+        "slug": "plate-wood-chopper"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-feet-elevated-figure-four-glute-bridge",
+        "slug": "barbell-feet-elevated-figure-four-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-feet-elevated-glute-bridge",
+        "slug": "barbell-feet-elevated-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-feet-elevated-single-leg-glute-bridge",
+        "slug": "barbell-feet-elevated-single-leg-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-feet-elevated-staggered-glute-bridge",
+        "slug": "barbell-feet-elevated-staggered-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/bodyweight-feet-elevated-figure-four-glute-bridge",
+        "slug": "bodyweight-feet-elevated-figure-four-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/bodyweight-feet-elevated-glute-bridge",
+        "slug": "bodyweight-feet-elevated-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/bodyweight-feet-elevated-single-leg-glute-bridge",
+        "slug": "bodyweight-feet-elevated-single-leg-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/bodyweight-feet-elevated-staggered-glute-bridge",
+        "slug": "bodyweight-feet-elevated-staggered-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/biceps/lawnmower-row",
+        "slug": "lawnmower-row"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/biceps/dumbbell-concentration-curl",
+        "slug": "dumbbell-concentration-curl"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/abdominals/dumbbell-crunch",
+        "slug": "dumbbell-crunch"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-elevated-pushup",
+        "slug": "dumbbell-elevated-pushup"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-feet-elevated-figure-four-glute-bridge",
+        "slug": "dumbbell-feet-elevated-figure-four-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-feet-elevated-glute-bridge",
+        "slug": "dumbbell-feet-elevated-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-feet-elevated-single-leg-glute-bridge",
+        "slug": "dumbbell-feet-elevated-single-leg-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-feet-elevated-staggered-glute-bridge",
+        "slug": "dumbbell-feet-elevated-staggered-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/biceps/dumbbell-knee-lawnmower-row",
+        "slug": "dumbbell-knee-lawnmower-row"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/laying-lateral-raise",
+        "slug": "laying-lateral-raise"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/obliques/dumbbell-long-lever-russian-twist",
+        "slug": "dumbbell-long-lever-russian-twist"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-overhead-squat",
+        "slug": "dumbbell-overhead-squat"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/abdominals/plank-iytw",
+        "slug": "plank-iytw"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/abdominals/pushup-to-renegade-row",
+        "slug": "pushup-to-renegade-row"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/obliques/dumbbell-side-bend",
+        "slug": "dumbbell-side-bend"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/single-arm-overhead-squat",
+        "slug": "single-arm-overhead-squat"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-single-arm-overhead-tricep-extension",
+        "slug": "dumbbell-single-arm-overhead-tricep-extension"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-single-arm-upright-row",
+        "slug": "dumbbell-single-arm-upright-row"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-upright-row",
+        "slug": "dumbbell-upright-row"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-standing-hip-abduction",
+        "slug": "dumbbell-standing-hip-abduction"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/abdominals/dumbbell-suitcase-crunch",
+        "slug": "dumbbell-suitcase-crunch"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/lowerback/dumbbell-superman",
+        "slug": "dumbbell-superman"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/biceps/dumbbell-supinated-row",
+        "slug": "dumbbell-supinated-row"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-tate-press",
+        "slug": "dumbbell-tate-press"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/lowerback/trx-ab-rollout",
+        "slug": "trx-ab-rollout"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/calves/trx-calf-raise",
+        "slug": "trx-calf-raise"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/chest/trx-pec-fly",
+        "slug": "trx-pec-fly"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/biceps/trx-curl",
+        "slug": "trx-curl"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/glutes/trx-curtsy-lunge",
+        "slug": "trx-curtsy-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/abdominals/trx-forearm-plank",
+        "slug": "trx-forearm-plank"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/obliques/trx-forearm-side-plank",
+        "slug": "trx-forearm-side-plank"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/glutes/trx-glute-bridge",
+        "slug": "trx-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/biceps/trx-hammer-curl",
+        "slug": "trx-hammer-curl"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/hamstrings/trx-hamstring-curl",
+        "slug": "trx-hamstring-curl"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/abdominals/trx-hand-plank",
+        "slug": "trx-hand-plank"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/shoulders/trx-i-raise",
+        "slug": "trx-i-raise"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/glutes/trx-jumping-squat",
+        "slug": "trx-jumping-squat"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/abdominals/trx-kneeling-ab-rollout",
+        "slug": "trx-kneeling-ab-rollout"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/abdominals/trx-knee-tuck",
+        "slug": "trx-knee-tuck"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/glutes/trx-lateral-lunge",
+        "slug": "trx-lateral-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/abdominals/trx-mountain-climber",
+        "slug": "trx-mountain-climber"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/obliques/trx-oblique-crunch",
+        "slug": "trx-oblique-crunch"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/abdominals/trx-pike",
+        "slug": "trx-pike"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/shoulders/trx-pushup",
+        "slug": "trx-pushup"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/traps-middle/trx-rear-delt-fly",
+        "slug": "trx-rear-delt-fly"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/traps-middle/trx-rear-delt-row",
+        "slug": "trx-rear-delt-row"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/biceps/trx-reverse-curl",
+        "slug": "trx-reverse-curl"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/glutes/trx-reverse-lunge",
+        "slug": "trx-reverse-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/biceps/trx-rotating-row",
+        "slug": "trx-rotating-row"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/lats/trx-single-arm-row",
+        "slug": "trx-single-arm-row"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/triceps/trx-skullcrusher",
+        "slug": "trx-skullcrusher"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/glutes/trx-split-squat",
+        "slug": "trx-split-squat"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/glutes/trx-squat",
+        "slug": "trx-squat"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/traps-middle/trx-w-raise",
+        "slug": "trx-w-raise"
+    },
+    {
+        "url": "https://musclewiki.com/trx/male/shoulders/trx-y-raise",
+        "slug": "trx-y-raise"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/lats/child-pose-arms-extended",
+        "slug": "child-pose-arms-extended"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/lats/child-pose-arms-extended-left-right",
+        "slug": "child-pose-arms-extended-left-right"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/lats/child-pose-arms-on-side",
+        "slug": "child-pose-arms-on-side"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/forearms/table-top-pose-variation-1",
+        "slug": "table-top-pose-variation-1"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/forearms/table-top-pose-variation-2",
+        "slug": "table-top-pose-variation-2"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/forearms/table-top-pose-variation-3",
+        "slug": "table-top-pose-variation-3"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/chest/bow-pose",
+        "slug": "bow-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/traps/bow-tie-pose",
+        "slug": "bow-tie-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/traps-middle/cat-pose",
+        "slug": "cat-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/quads/chair-pose",
+        "slug": "chair-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/triceps/child-pose-elbows-on-block",
+        "slug": "child-pose-elbows-on-block"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/biceps/corpe-pose",
+        "slug": "corpe-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/quads/crescent-moon-pose",
+        "slug": "crescent-moon-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/quads/crescent-moon-pose-quad-stretch",
+        "slug": "crescent-moon-pose-quad-stretch"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/quads/crescent-moon-pose-quad-stretch-with-block",
+        "slug": "crescent-moon-pose-quad-stretch-with-block"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/biceps/crow-pose",
+        "slug": "crow-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/glutes/double-pigeon-pose",
+        "slug": "double-pigeon-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/biceps/downward-dog",
+        "slug": "downward-dog"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/calves/downward-dog-toe-to-heel",
+        "slug": "downward-dog-toe-to-heel"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/biceps/downward-dog-with-fingers-facing-feet",
+        "slug": "downward-dog-with-fingers-facing-feet"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/traps/eagle-arms-chin-into-chest",
+        "slug": "eagle-arms-chin-into-chest"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/shoulders/eagle-arm-pose",
+        "slug": "eagle-arm-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/traps/easy-pose-neck-stretch",
+        "slug": "easy-pose-neck-stretch"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/traps-middle/easy-seated-twist-pose",
+        "slug": "easy-seated-twist-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/lats/extended-side-angle-pose",
+        "slug": "extended-side-angle-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/lats/extended-side-angle-pose-with-block",
+        "slug": "extended-side-angle-pose-with-block"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/obliques/gate-pose-variation-arm-extended-on-side",
+        "slug": "gate-pose-variation-arm-extended-on-side"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/lats/gate-pose-rounding-spine-looking-up",
+        "slug": "gate-pose-rounding-spine-looking-up"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/glutes/half-lotus",
+        "slug": "half-lotus"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/hamstrings/half-monkey-pose",
+        "slug": "half-monkey-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/traps/half-neck-rolls",
+        "slug": "half-neck-rolls"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/lowerback/happy-baby",
+        "slug": "happy-baby"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/shoulders/headstand",
+        "slug": "headstand"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/quads/lord-of-the-dance",
+        "slug": "lord-of-the-dance"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/quads/monkey-pose",
+        "slug": "monkey-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/chest/mountain",
+        "slug": "mountain"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/triceps/one-arm-cow-face-pose",
+        "slug": "one-arm-cow-face-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/hamstrings/seated-forward-bend",
+        "slug": "seated-forward-bend"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/glutes/pigeon-pose",
+        "slug": "pigeon-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/shoulders/wide-legged-forward-fall",
+        "slug": "wide-legged-forward-fall"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/shoulders/puppy-pose",
+        "slug": "puppy-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/hamstrings/pyramid-pose-blocks",
+        "slug": "pyramid-pose-blocks"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/calves/pyramid-pose-calf-blocks",
+        "slug": "pyramid-pose-calf-blocks"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/hamstrings/pyramid-pose",
+        "slug": "pyramid-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/triceps/pyramid-prayer",
+        "slug": "pyramid-prayer"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/glutes/reclining-pigeon-pose",
+        "slug": "reclining-pigeon-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/glutes/restful-cow-face-pose-legs",
+        "slug": "restful-cow-face-pose-legs"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/shoulders/reverse-prayer",
+        "slug": "reverse-prayer"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/obliques/revolved-head-to-knee",
+        "slug": "revolved-head-to-knee"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/traps-middle/revolved-side-angle-pose-with-prayer-hands-beginner",
+        "slug": "revolved-side-angle-pose-with-prayer-hands-beginner"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/traps-middle/revolved-side-angle-pose-with-prayer-hands",
+        "slug": "revolved-side-angle-pose-with-prayer-hands"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/quads/runners-lunge",
+        "slug": "runners-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/biceps/scorpion-twist-pose",
+        "slug": "scorpion-twist-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/biceps/seated-arm-stretch",
+        "slug": "seated-arm-stretch"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/obliques/seated-side-bend-pose",
+        "slug": "seated-side-bend-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/traps-middle/seated-twist",
+        "slug": "seated-twist"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/lowerback/sphinx-pose",
+        "slug": "sphinx-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/hamstrings/standing-forward-bend-blocks",
+        "slug": "standing-forward-bend-blocks"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/hamstrings/standing-forward-bend",
+        "slug": "standing-forward-bend"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/obliques/supine-twist-lying",
+        "slug": "supine-twist-lying"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/chest/supported-matsyasana-pose",
+        "slug": "supported-matsyasana-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/traps/thread-the-needle-hip-over-knees",
+        "slug": "thread-the-needle-hip-over-knees"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/chest/tree-pose",
+        "slug": "tree-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/lats/two-arms-cow-face-pose",
+        "slug": "two-arms-cow-face-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/abdominals/Urdhva-Dhanurasana-wheel-pose",
+        "slug": "Urdhva-Dhanurasana-wheel-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/forearms/vajrasana-variation-1",
+        "slug": "vajrasana-variation-1"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/forearms/vajrasana-Variation-2",
+        "slug": "vajrasana-Variation-2"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/calves/walk-your-downward-dog",
+        "slug": "walk-your-downward-dog"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/chest/warrior-one",
+        "slug": "warrior-one"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/hamstrings/warrior-three",
+        "slug": "warrior-three"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/chest/warrior-two",
+        "slug": "warrior-two"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/hamstrings/wide-legged-standing-forward-bend-holding-heels",
+        "slug": "wide-legged-standing-forward-bend-holding-heels"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/obliques/wild-thing-pose",
+        "slug": "wild-thing-pose"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/chest/yogi-arm-clock",
+        "slug": "yogi-arm-clock"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/shoulders/reverse-prayer-variation",
+        "slug": "reverse-prayer-variation"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/box-jump",
+        "slug": "box-jump"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/depth-jump",
+        "slug": "depth-jump"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/seated-box-jump",
+        "slug": "seated-box-jump"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/single-leg-box-jump",
+        "slug": "single-leg-box-jump"
+    },
+    {
+        "url": "https://musclewiki.com/cardio/male/abdominals/toe-tap",
+        "slug": "toe-tap"
+    },
+    {
+        "url": "https://musclewiki.com/machine/male/hamstrings/glute-ham-raise",
+        "slug": "glute-ham-raise"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/chest/chest-press-partner-toss",
+        "slug": "chest-press-partner-toss"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/chest/chest-press-slam",
+        "slug": "chest-press-slam"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/chest/chest-press-toss",
+        "slug": "chest-press-toss"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/glutes/clean-and-press-slam",
+        "slug": "clean-and-press-slam"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/obliques/half-kneeling-wood-chopper",
+        "slug": "half-kneeling-wood-chopper"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/abdominals/halo",
+        "slug": "halo"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/glutes/ball-headlock-squat",
+        "slug": "ball-headlock-squat"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/gluteus-medius/hip-abduction",
+        "slug": "hip-abduction"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/obliques/medicine-ball-kneeling-wood-chopper",
+        "slug": "medicine-ball-kneeling-wood-chopper"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/gluteus-medius/medicine-ball-lateral-lunge-slam",
+        "slug": "medicine-ball-lateral-lunge-slam"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/glutes/ball-offset-squat",
+        "slug": "ball-offset-squat"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/glutes/overhead-reverse-lunge",
+        "slug": "overhead-reverse-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/glutes/overhead-squat",
+        "slug": "overhead-squat"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/obliques/partner-side-toss",
+        "slug": "partner-side-toss"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/abdominals/partner-situp-toss",
+        "slug": "partner-situp-toss"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/abdominals/plank",
+        "slug": "plank"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/gluteus-medius/press-jack",
+        "slug": "press-jack"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/chest/medicine-ball-push-up",
+        "slug": "medicine-ball-push-up"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/obliques/rainbow-slam",
+        "slug": "rainbow-slam"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/glutes/reverse-lunge",
+        "slug": "reverse-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/quads/reverse-lunge-twist",
+        "slug": "reverse-lunge-twist"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/obliques/russian-twist",
+        "slug": "russian-twist"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/glutes/self-toss",
+        "slug": "self-toss"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/lowerback/single-leg-deadlift",
+        "slug": "single-leg-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/abdominals/slam",
+        "slug": "slam"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/glutes/squat-reach",
+        "slug": "squat-reach"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/triceps/walkover-pushup",
+        "slug": "walkover-pushup"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/glutes/wall-ball",
+        "slug": "wall-ball"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/obliques/wood-chopper",
+        "slug": "wood-chopper"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/obliques/wood-chopper-toss",
+        "slug": "wood-chopper-toss"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/landmine-alternating-lunge-and-twist",
+        "slug": "landmine-alternating-lunge-and-twist"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/landmine-alternating-lunge-to-chest-press",
+        "slug": "landmine-alternating-lunge-to-chest-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/shoulders/landmine-alternating-single-arm-press",
+        "slug": "landmine-alternating-single-arm-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/biceps/landmine-bicep-curl",
+        "slug": "landmine-bicep-curl"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/calves/landmine-calf-raise",
+        "slug": "landmine-calf-raise"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/biceps/landmine-concentration-curl",
+        "slug": "landmine-concentration-curl"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/landmine-curtsy-lunge",
+        "slug": "landmine-curtsy-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/landmine-glute-kick-back",
+        "slug": "landmine-glute-kick-back"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/landmine-goblet-curtsy-lunge",
+        "slug": "landmine-goblet-curtsy-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/landmine-goblet-lateral-lunge",
+        "slug": "landmine-goblet-lateral-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/landmine-hack-squat",
+        "slug": "landmine-hack-squat"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/shoulders/landmine-half-kneeling-single-arm-overhead-press",
+        "slug": "landmine-half-kneeling-single-arm-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/abdominals/landmine-hollow-hold",
+        "slug": "landmine-hollow-hold"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/shoulders/landmine-kneeling-alternating-overhead-press",
+        "slug": "landmine-kneeling-alternating-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/shoulders/landmine-kneeling-overhead-press",
+        "slug": "landmine-kneeling-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/shoulders/landmine-kneeling-twist",
+        "slug": "landmine-kneeling-twist"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/landmine-lateral-lunge",
+        "slug": "landmine-lateral-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/shoulders/landmine-lateral-raise",
+        "slug": "landmine-lateral-raise"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/landmine-lunge",
+        "slug": "landmine-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/landmine-lunge-to-overhead-press",
+        "slug": "landmine-lunge-to-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/triceps/landmine-lying-tricep-extension",
+        "slug": "landmine-lying-tricep-extension"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/shoulders/landmine-oblique-twist",
+        "slug": "landmine-oblique-twist"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/shoulders/landmine-overhead-press",
+        "slug": "landmine-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/lowerback/landmine-romanian-deadlift",
+        "slug": "landmine-romanian-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/landmine-rotational-lift-to-press",
+        "slug": "landmine-rotational-lift-to-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/obliques/landmine-russian-twist",
+        "slug": "landmine-russian-twist"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/shoulders/landmine-seated-alternating-overhead-press",
+        "slug": "landmine-seated-alternating-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/shoulders/landmine-seated-overhead-press",
+        "slug": "landmine-seated-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/shoulders/landmine-seated-single-arm-overhead-press",
+        "slug": "landmine-seated-single-arm-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/chest/landmine-single-arm-chest-press",
+        "slug": "landmine-single-arm-chest-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/shoulders/landmine-single-arm-overhead-press",
+        "slug": "landmine-single-arm-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/shoulders/landmine-single-arm-push-press",
+        "slug": "landmine-single-arm-push-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/shoulders/landmine-single-arm-staggered-overhead-press",
+        "slug": "landmine-single-arm-staggered-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/landmine-single-leg-glute-bridge",
+        "slug": "landmine-single-leg-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/landmine-single-leg-romanian-deadlift",
+        "slug": "landmine-single-leg-romanian-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/quads/barbell-landmine-sissy-squat",
+        "slug": "barbell-landmine-sissy-squat"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/abdominals/landmine-sit-up",
+        "slug": "landmine-sit-up"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/lowerback/landmine-snatch",
+        "slug": "landmine-snatch"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/shoulders/landmine-split-jerk",
+        "slug": "landmine-split-jerk"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/landmine-squat",
+        "slug": "landmine-squat"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/landmine-staggered-romanian-deadlift",
+        "slug": "landmine-staggered-romanian-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/obliques/landmine-stationary-twist",
+        "slug": "landmine-stationary-twist"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/landmine-sumo-deadlift",
+        "slug": "landmine-sumo-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/biceps/landmine-t-bar-rows",
+        "slug": "landmine-t-bar-rows"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/landmine-thruster",
+        "slug": "landmine-thruster"
+    },
+    {
+        "url": "https://musclewiki.com/medicine-ball/male/abdominals/medicine-ball-hollow-hold",
+        "slug": "medicine-ball-hollow-hold"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/glutes/bosu-ball-burpee",
+        "slug": "bosu-ball-burpee"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/calves/calf-raise",
+        "slug": "calf-raise"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/biceps/curl",
+        "slug": "curl"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/glutes/feet-elevated-glute-bridge",
+        "slug": "feet-elevated-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/abdominals/bosu-ball-forearm-plank",
+        "slug": "bosu-ball-forearm-plank"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/obliques/forearm-sideplank",
+        "slug": "forearm-sideplank"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/anterior-deltoid/front-raise",
+        "slug": "front-raise"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/glutes/half-burpee",
+        "slug": "half-burpee"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/abdominals/bosu-ball-hand-plank",
+        "slug": "bosu-ball-hand-plank"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/obliques/hand-sideplank",
+        "slug": "hand-sideplank"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/gluteus-medius/hand-sideplank-hip-abduction",
+        "slug": "hand-sideplank-hip-abduction"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/glutes/bosu-ball-hip-thrust",
+        "slug": "bosu-ball-hip-thrust"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/glutes/bosu-ball-lateral-lunge",
+        "slug": "bosu-ball-lateral-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/triceps/bosu-ball-offset-pushup",
+        "slug": "bosu-ball-offset-pushup"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/shoulders/bosu-ball-pike-pushup",
+        "slug": "bosu-ball-pike-pushup"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/traps/pike-shrug",
+        "slug": "pike-shrug"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/abdominals/plank-glute-kickback",
+        "slug": "plank-glute-kickback"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/lats/pullover",
+        "slug": "pullover"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/triceps/bosu-ball-pushup",
+        "slug": "bosu-ball-pushup"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/glutes/reverse-lunge",
+        "slug": "reverse-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/biceps/row",
+        "slug": "row"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/glutes/single-leg-elevated-glute-bridge",
+        "slug": "single-leg-elevated-glute-bridge"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/lowerback/single-leg-hip-thrust",
+        "slug": "single-leg-hip-thrust"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/abdominals/situp",
+        "slug": "situp"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/glutes/split-squat",
+        "slug": "split-squat"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/glutes/squat",
+        "slug": "squat"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/lowerback/superman",
+        "slug": "superman"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/abdominals/toe-tap",
+        "slug": "toe-tap"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/abdominals/up-and-over",
+        "slug": "up-and-over"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/abdominals/bosu-ball-walkover-pushup",
+        "slug": "bosu-ball-walkover-pushup"
+    },
+    {
+        "url": "https://musclewiki.com/bosu-ball/male/obliques/wood-chopper",
+        "slug": "wood-chopper"
+    },
+    {
+        "url": "https://musclewiki.com/machine/male/traps-middle/narrow-pulldown",
+        "slug": "narrow-pulldown"
+    },
+    {
+        "url": "https://musclewiki.com/machine/male/chest/neutral-chest-press",
+        "slug": "neutral-chest-press"
+    },
+    {
+        "url": "https://musclewiki.com/machine/male/biceps/neutral-pulldown",
+        "slug": "neutral-pulldown"
+    },
+    {
+        "url": "https://musclewiki.com/machine/male/biceps/underhand-pulldown",
+        "slug": "underhand-pulldown"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/shoulders/arnold-press",
+        "slug": "arnold-press"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/glutes/belt-squat",
+        "slug": "belt-squat"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/chest/bench-press",
+        "slug": "bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/abdominals/crunch",
+        "slug": "crunch"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/glutes/deficit-lunge",
+        "slug": "deficit-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/glutes/figure-four-hip-thrust",
+        "slug": "figure-four-hip-thrust"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/glutes/front-squat",
+        "slug": "front-squat"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/biceps/hammer-curl",
+        "slug": "hammer-curl"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/glutes/vitruvian-hip-thrust",
+        "slug": "vitruvian-hip-thrust"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/obliques/vitruvian-kneeling-wood-chopper",
+        "slug": "vitruvian-kneeling-wood-chopper"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/shoulders/lateral-raise",
+        "slug": "lateral-raise"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/shoulders/overhead-press",
+        "slug": "overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/chest/pec-fly",
+        "slug": "pec-fly"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/triceps/vitruvian-push-up",
+        "slug": "vitruvian-push-up"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/shoulders/rear-delt-fly",
+        "slug": "rear-delt-fly"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/lowerback/romanian-deadlift",
+        "slug": "romanian-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/biceps/vitruvian-row",
+        "slug": "vitruvian-row"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/calves/seated-calf-raise",
+        "slug": "seated-calf-raise"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/traps/shrug",
+        "slug": "shrug"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/obliques/side-bend",
+        "slug": "side-bend"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/biceps/single-arm-row",
+        "slug": "single-arm-row"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/lowerback/single-leg-deadlift",
+        "slug": "single-leg-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/lowerback/staggered-deadlift",
+        "slug": "staggered-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/calves/standing-calf-raise",
+        "slug": "standing-calf-raise"
+    },
+    {
+        "url": "https://musclewiki.com/vitruvian/male/obliques/windmill",
+        "slug": "windmill"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/tibialis/seated-tibialis-raise",
+        "slug": "seated-tibialis-raise"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/tibialis/dumbbell-seated-tibialis-raise",
+        "slug": "dumbbell-seated-tibialis-raise"
+    },
+    {
+        "url": "https://musclewiki.com/yoga/male/lowerback/cobra-pose",
+        "slug": "cobra-pose"
+    },
+    {
+        "url": "https://musclewiki.com/machine/male/quads/machine-sissy-squat",
+        "slug": "machine-sissy-squat"
+    },
+    {
+        "url": "https://musclewiki.com/machine/male/quads/machine-goblet-sissy-squat",
+        "slug": "machine-goblet-sissy-squat"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/abdominals/bicycle-crunch",
+        "slug": "bicycle-crunch"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/abdominals/bird-dog",
+        "slug": "bird-dog"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/abdominals/dead-bug",
+        "slug": "dead-bug"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/obliques/hand-side-plank-reach-through",
+        "slug": "hand-side-plank-reach-through"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/abdominals/long-lever-forearm-plank",
+        "slug": "long-lever-forearm-plank"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/abdominals/bodyweight-situp",
+        "slug": "bodyweight-situp"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/lowerback/plate-superman",
+        "slug": "plate-superman"
+    },
+    {
+        "url": "https://musclewiki.com/plate/male/lowerback/plate-superman-hold",
+        "slug": "plate-superman-hold"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/abdominals/reverse-crunch",
+        "slug": "reverse-crunch"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/lowerback/dumbbell-superman-hold",
+        "slug": "dumbbell-superman-hold"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/abdominals/kettlebell-hollow-hold",
+        "slug": "kettlebell-hollow-hold"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/lowerback/kettlebell-superman",
+        "slug": "kettlebell-superman"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/lowerback/kettlebell-superman-hold",
+        "slug": "kettlebell-superman-hold"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/internally-rotated-seated-rear-delt-fly",
+        "slug": "internally-rotated-seated-rear-delt-fly"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/seated-lateral-raise",
+        "slug": "seated-lateral-raise"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/tibialis/standing-tibialis-raise",
+        "slug": "standing-tibialis-raise"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/tibialis/dumbbell-standing-tibialis-raise",
+        "slug": "dumbbell-standing-tibialis-raise"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/biceps/kettlebell-alternating-row",
+        "slug": "kettlebell-alternating-row"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/lowerback/kettlebell-alternating-swing",
+        "slug": "kettlebell-alternating-swing"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/long-head-triceps/kettlebell-bench-press",
+        "slug": "kettlebell-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/glutes/kettlebell-clean-and-press",
+        "slug": "kettlebell-clean-and-press"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/lowerback/kettlebell-conventional-deadlift-double",
+        "slug": "kettlebell-conventional-deadlift-double"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/biceps/kettlebell-curl",
+        "slug": "kettlebell-curl"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/glutes/kettlebell-snatch-double",
+        "slug": "kettlebell-snatch-double"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/lowerback/kettlebell-swing-double",
+        "slug": "kettlebell-swing-double"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/glutes/kettlebell-figure-four-hip-thrust",
+        "slug": "kettlebell-figure-four-hip-thrust"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/glutes/kettlebell-forward-lunge-double",
+        "slug": "kettlebell-forward-lunge-double"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/abdominals/kettlebell-front-rack-curtsy-lunge-double",
+        "slug": "kettlebell-front-rack-curtsy-lunge-double"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/glutes/kettlebell-front-rack-forward-lunge-double",
+        "slug": "kettlebell-front-rack-forward-lunge-double"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/glutes/kettlebell-front-rack-lateral-lunge-double",
+        "slug": "kettlebell-front-rack-lateral-lunge-double"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/glutes/kettlebell-front-rack-reverse-lunge-double",
+        "slug": "kettlebell-front-rack-reverse-lunge-double"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/glutes/kettlebell-front-rack-single-arm-lateral-lunge",
+        "slug": "kettlebell-front-rack-single-arm-lateral-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/glutes/kettlebell-front-rack-squat",
+        "slug": "kettlebell-front-rack-squat"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/lowerback/kettlebell-full-swing",
+        "slug": "kettlebell-full-swing"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/biceps/kettlebell-gorilla-row",
+        "slug": "kettlebell-gorilla-row"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/triceps/kettlebell-guillotine-bench-press",
+        "slug": "kettlebell-guillotine-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/glutes/kettlebell-lateral-lunge",
+        "slug": "kettlebell-lateral-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/chest/kettlebell-pec-fly",
+        "slug": "kettlebell-pec-fly"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/shoulders/kettlebell-push-press",
+        "slug": "kettlebell-push-press"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/traps-middle/kettlebell-rear-delt-row-double",
+        "slug": "kettlebell-rear-delt-row-double"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/biceps/kettlebell-reverse-curl",
+        "slug": "kettlebell-reverse-curl"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/glutes/kettlebell-reverse-lunge",
+        "slug": "kettlebell-reverse-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/lowerback/kettlebell-romanian-deadlift",
+        "slug": "kettlebell-romanian-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/biceps/kettlebell-row",
+        "slug": "kettlebell-row"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/traps/kettlebell-shrug",
+        "slug": "kettlebell-shrug"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/traps-middle/kettlebell-silverback-shrug",
+        "slug": "kettlebell-silverback-shrug"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/glutes/kettlebell-single-arm-clean-and-press",
+        "slug": "kettlebell-single-arm-clean-and-press"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/glutes/Kettlebell-single-arm-curtsy-lunge",
+        "slug": "Kettlebell-single-arm-curtsy-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/glutes/kettlebells-single-arm-front-rack-forward-lunge",
+        "slug": "kettlebells-single-arm-front-rack-forward-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/glutes/kettlebells-single-arm-front-rack-reverse-lunge",
+        "slug": "kettlebells-single-arm-front-rack-reverse-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/glutes/kettlebells-single-arm-snatch",
+        "slug": "kettlebells-single-arm-snatch"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/lowerback/kettlebell-single-arm-swing",
+        "slug": "kettlebell-single-arm-swing"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/lowerback/kettlebell-staggered-deadlift",
+        "slug": "kettlebell-staggered-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/lowerback/kettlebells-staggered-swing",
+        "slug": "kettlebells-staggered-swing"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/lowerback/kettlebell-sumo-deadlift",
+        "slug": "kettlebell-sumo-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/lowerback/swing-to-upright-row",
+        "slug": "swing-to-upright-row"
+    },
+    {
+        "url": "https://musclewiki.com/kettlebells/male/shoulders/upright-row",
+        "slug": "upright-row"
+    },
+    {
+        "url": "https://musclewiki.com/smithmachine/male/quads/smith-machine-sissy-squat",
+        "slug": "smith-machine-sissy-squat"
+    },
+    {
+        "url": "https://musclewiki.com/smithmachine/male/abdominals/smith-machine-situp",
+        "slug": "smith-machine-situp"
+    },
+    {
+        "url": "https://musclewiki.com/smithmachine/male/shoulders/smith-machine-upright-row",
+        "slug": "smith-machine-upright-row"
+    },
+    {
+        "url": "https://musclewiki.com/smithmachine/male/lowerback/smith-machine-staggered-deadlift",
+        "slug": "smith-machine-staggered-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/smithmachine/male/glutes/smith-machine-split-squat",
+        "slug": "smith-machine-split-squat"
+    },
+    {
+        "url": "https://musclewiki.com/smithmachine/male/gluteus-maximus/smith-machine-squat",
+        "slug": "smith-machine-squat"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/lowerback/cable-zercher-squat",
+        "slug": "cable-zercher-squat"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/triceps/cable-tricep-kickback",
+        "slug": "cable-tricep-kickback"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/traps-middle/cable-row-bar-standing-row",
+        "slug": "cable-row-bar-standing-row"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/biceps/cable-single-arm-underhand-grip-row",
+        "slug": "cable-single-arm-underhand-grip-row"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/biceps/cable-single-arm-neutral-grip-row",
+        "slug": "cable-single-arm-neutral-grip-row"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/traps-middle/cable-single-arm-rear-delt-row",
+        "slug": "cable-single-arm-rear-delt-row"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/biceps/cable-supinating-row",
+        "slug": "cable-supinating-row"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/biceps/cable-archer-row",
+        "slug": "cable-archer-row"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/obliques/cable-half-kneeling-low-to-high-wood-chopper",
+        "slug": "cable-half-kneeling-low-to-high-wood-chopper"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/obliques/cable-half-kneeling-wood-chopper",
+        "slug": "cable-half-kneeling-wood-chopper"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/obliques/cable-half-kneeling-high-to-low-wood-chopper",
+        "slug": "cable-half-kneeling-high-to-low-wood-chopper"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/lats/cable-straight-arm-pull-in",
+        "slug": "cable-straight-arm-pull-in"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/lats/cable-rope-lat-prayer",
+        "slug": "cable-rope-lat-prayer"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/lats/cable-rope-pullover",
+        "slug": "cable-rope-pullover"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/biceps/cable-seated-bayesian-reverse-curl",
+        "slug": "cable-seated-bayesian-reverse-curl"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/biceps/cable-seated-bayesian-hammer-curl",
+        "slug": "cable-seated-bayesian-hammer-curl"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/biceps/cable-seated-bayesian-curl",
+        "slug": "cable-seated-bayesian-curl"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/chest/cable-single-arm-incline-chest-fly",
+        "slug": "cable-single-arm-incline-chest-fly"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/upper-pectoralis/cable-single-arm-incline-bench-press",
+        "slug": "cable-single-arm-incline-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/chest/cable-single-arm-bench-chest-fly",
+        "slug": "cable-single-arm-bench-chest-fly"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/anterior-deltoid/cable-single-arm-bench-press",
+        "slug": "cable-single-arm-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/chest/cable-single-arm-decline-bench-chest-fly",
+        "slug": "cable-single-arm-decline-bench-chest-fly"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/anterior-deltoid/cable-decline-single-arm-bench-press",
+        "slug": "cable-decline-single-arm-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/chest/cable-incline-chest-fly",
+        "slug": "cable-incline-chest-fly"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/upper-pectoralis/cable-incline-bench-press",
+        "slug": "cable-incline-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/chest/cable-bench-chest-fly",
+        "slug": "cable-bench-chest-fly"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/anterior-deltoid/cable-bench-press",
+        "slug": "cable-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/chest/cable-decline-bench-chest-fly",
+        "slug": "cable-decline-bench-chest-fly"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/anterior-deltoid/cable-decline-bench-press",
+        "slug": "cable-decline-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/hamstrings/cable-seated-leg-curl",
+        "slug": "cable-seated-leg-curl"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/quads/cable-seated-leg-extension",
+        "slug": "cable-seated-leg-extension"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/hamstrings/cable-single-leg-laying-leg-curl",
+        "slug": "cable-single-leg-laying-leg-curl"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/posterior-deltoid/cable-rope-kneeling-face-pull",
+        "slug": "cable-rope-kneeling-face-pull"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/abdominals/cable-rope-kneeling-oblique-crunch",
+        "slug": "cable-rope-kneeling-oblique-crunch"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/abdominals/cable-rope-kneeling-crunch",
+        "slug": "cable-rope-kneeling-crunch"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/glutes/cable-quadruped-hip-abduction",
+        "slug": "cable-quadruped-hip-abduction"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/lowerback/cable-incline-bench-straight-leg-kickback",
+        "slug": "cable-incline-bench-straight-leg-kickback"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/lowerback/cable-bench-straight-leg-kickback",
+        "slug": "cable-bench-straight-leg-kickback"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/glutes/cable-standing-hip-adduction",
+        "slug": "cable-standing-hip-adduction"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/lowerback/cable-standing-mid-kickback",
+        "slug": "cable-standing-mid-kickback"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/lowerback/cable-standing-straight-leg-mid-kickback",
+        "slug": "cable-standing-straight-leg-mid-kickback"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/glutes/cable-standing-glute-kickback",
+        "slug": "cable-standing-glute-kickback"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/shoulders/cable-low-bilateral-lateral-raise",
+        "slug": "cable-low-bilateral-lateral-raise"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/shoulders/cable-bar-front-raise",
+        "slug": "cable-bar-front-raise"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/lowerback/cable-zercher-good-morning",
+        "slug": "cable-zercher-good-morning"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/lowerback/cable-bar-staggered-romanian-deadlift",
+        "slug": "cable-bar-staggered-romanian-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/forearms/cable-bar-reverse-grip-curl",
+        "slug": "cable-bar-reverse-grip-curl"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/biceps/cable-bar-curl",
+        "slug": "cable-bar-curl"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/triceps/cable-bar-reverse-grip-pushdown",
+        "slug": "cable-bar-reverse-grip-pushdown"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/triceps/cable-bar-pushdown",
+        "slug": "cable-bar-pushdown"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/shoulders/cable-rope-single-arm-low-lateral-raise",
+        "slug": "cable-rope-single-arm-low-lateral-raise"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/shoulders/cable-rope-mid-lateral-raise",
+        "slug": "cable-rope-mid-lateral-raise"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/triceps/cable-single-arm-skullcrusher",
+        "slug": "cable-single-arm-skullcrusher"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/shoulders/cable-rope-front-raise",
+        "slug": "cable-rope-front-raise"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/triceps/cable-single-arm-rope-pushdown",
+        "slug": "cable-single-arm-rope-pushdown"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/shoulders/cable-rope-upright-row",
+        "slug": "cable-rope-upright-row"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/biceps/cable-rope-hammer-curl",
+        "slug": "cable-rope-hammer-curl"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/lowerback/cable-elevated-deadlift",
+        "slug": "cable-elevated-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/shoulders/cable-high-reverse-fly",
+        "slug": "cable-high-reverse-fly"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/shoulders/cable-single-arm-internally-rotated-high-reverse-fly",
+        "slug": "cable-single-arm-internally-rotated-high-reverse-fly"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/shoulders/cable-high-internally-rotated-reverse-fly",
+        "slug": "cable-high-internally-rotated-reverse-fly"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/triceps/cable-single-arm-cross-pushdown",
+        "slug": "cable-single-arm-cross-pushdown"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/obliques/cable-pallof-press-rotation",
+        "slug": "cable-pallof-press-rotation"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/obliques/cable-oblique-pushdown",
+        "slug": "cable-oblique-pushdown"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/obliques/cable-side-bend",
+        "slug": "cable-side-bend"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/calves/cable-bar-calve-raise",
+        "slug": "cable-bar-calve-raise"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/biceps/cable-hammer-bayesian-curl",
+        "slug": "cable-hammer-bayesian-curl"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/biceps/cable-reverse-bayesian-curl",
+        "slug": "cable-reverse-bayesian-curl"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/biceps/cable-bilateral-bayesian-curl",
+        "slug": "cable-bilateral-bayesian-curl"
+    },
+    {
+        "url": "https://musclewiki.com/cables/male/traps/cable-single-arm-30-degree-shrug",
+        "slug": "cable-single-arm-30-degree-shrug"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/shoulders/barbell-behind-the-neck-seated-overhead-press",
+        "slug": "barbell-behind-the-neck-seated-overhead-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/biceps/barbell-drag-curl",
+        "slug": "barbell-drag-curl"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-figure-four-hip-thrust",
+        "slug": "barbell-figure-four-hip-thrust"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-front-squat-with-straps",
+        "slug": "barbell-front-squat-with-straps"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/anterior-deltoid/barbell-high-incline-bench-press",
+        "slug": "barbell-high-incline-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-single-leg-hip-thrust",
+        "slug": "barbell-single-leg-hip-thrust"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/forearms/dumbbell-bench-wrist-curl",
+        "slug": "dumbbell-bench-wrist-curl"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/wrist-extensors/dumbbell-bench-wrist-extension",
+        "slug": "dumbbell-bench-wrist-extension"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-bent-arm-lateral-raise",
+        "slug": "dumbbell-bent-arm-lateral-raise"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/lowerback/dumbbell-cross-body-romanian-deadlift",
+        "slug": "dumbbell-cross-body-romanian-deadlift"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/anterior-deltoid/dumbbell-high-incline-bench-press",
+        "slug": "dumbbell-high-incline-bench-press"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-incline-skullover",
+        "slug": "dumbbell-incline-skullover"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-shoulder-external-rotation",
+        "slug": "dumbbell-shoulder-external-rotation"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-standing-bayesian-lateral-raise",
+        "slug": "dumbbell-standing-bayesian-lateral-raise"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-figure-four-heels-elevated-hip-thrust",
+        "slug": "barbell-figure-four-heels-elevated-hip-thrust"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-heels-elevated-hip-thrust",
+        "slug": "barbell-heels-elevated-hip-thrust"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/glutes/barbell-single-leg-heels-elevated-hip-thrust",
+        "slug": "barbell-single-leg-heels-elevated-hip-thrust"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/shoulders/backward-arm-circle",
+        "slug": "backward-arm-circle"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/bodyweight-alternating-jump-lunge",
+        "slug": "bodyweight-alternating-jump-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/bodyweight-figure-four-heels-elevated-hip-thrust",
+        "slug": "bodyweight-figure-four-heels-elevated-hip-thrust"
+    },
+    {
+        "url": "https://musclewiki.com/cardio/male/chest/cardio-assault-bike-arms-only",
+        "slug": "cardio-assault-bike-arms-only"
+    },
+    {
+        "url": "https://musclewiki.com/cardio/male/glutes/cardio-assault-bike",
+        "slug": "cardio-assault-bike"
+    },
+    {
+        "url": "https://musclewiki.com/cardio/male/gluteus-medius/cardio-jumping-jacks",
+        "slug": "cardio-jumping-jacks"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-figure-four-heels-elevated-hip-thrust",
+        "slug": "dumbbell-figure-four-heels-elevated-hip-thrust"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-heels-elevated-hip-thrust",
+        "slug": "dumbbell-heels-elevated-hip-thrust"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-single-leg-heels-elevated-hip-thrust",
+        "slug": "dumbbell-single-leg-heels-elevated-hip-thrust"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/bodyweight-alternating-curtsy-lunge",
+        "slug": "bodyweight-alternating-curtsy-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/bodyweight-alternating-lateral-lunge",
+        "slug": "bodyweight-alternating-lateral-lunge"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/glutes/bodyweight-alternating-reverse-lunges",
+        "slug": "bodyweight-alternating-reverse-lunges"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/triceps/bodyweight-clapping-push-up",
+        "slug": "bodyweight-clapping-push-up"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/triceps/bodyweight-diamond-knee-push-ups",
+        "slug": "bodyweight-diamond-knee-push-ups"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/triceps/bodyweight-elevated-push-up",
+        "slug": "bodyweight-elevated-push-up"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/triceps/bodyweight-explosive-push-up",
+        "slug": "bodyweight-explosive-push-up"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/triceps/dumbbell-floor-press",
+        "slug": "dumbbell-floor-press"
+    },
+    {
+        "url": "https://musclewiki.com/bodyweight/male/triceps/bodyweight-box-assisted-dips",
+        "slug": "bodyweight-box-assisted-dips"
+    },
+    {
+        "url": "https://musclewiki.com/barbell/male/wrist-extensors/barbell-wrist-extension",
+        "slug": "barbell-wrist-extension"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/traps-middle/dumbbell-seated-rear-delt-row",
+        "slug": "dumbbell-seated-rear-delt-row"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/shoulders/dumbbell-internally-rotated-rear-delt-fly",
+        "slug": "dumbbell-internally-rotated-rear-delt-fly"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-goblet-side-step-up",
+        "slug": "dumbbell-goblet-side-step-up"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-side-step-up",
+        "slug": "dumbbell-side-step-up"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-goblet-step-up",
+        "slug": "dumbbell-goblet-step-up"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-single-arm-front-rack-step-up",
+        "slug": "dumbbell-single-arm-front-rack-step-up"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-front-rack-step-up",
+        "slug": "dumbbell-front-rack-step-up"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-single-arm-step-up",
+        "slug": "dumbbell-single-arm-step-up"
+    },
+    {
+        "url": "https://musclewiki.com/dumbbells/male/glutes/dumbbell-step-up",
+        "slug": "dumbbell-step-up"
+    }
+]
