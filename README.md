@@ -12,3 +12,6 @@ Add links to MuscleWiki from workout.lol
 6. Select the unzipped folder
 
 ## Preview
+
+![SCR-20231103-pipu](https://github.com/buidlcat/workout-lol-ext/assets/138834546/5899c997-2839-4f53-bea6-afecbaba8961)
+![SCR-20231103-pjdj](https://github.com/buidlcat/workout-lol-ext/assets/138834546/ce254ff8-25c7-4a7a-9a82-b83c717d9702)
