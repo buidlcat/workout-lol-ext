@@ -2,7 +2,7 @@
 
 Add links to MuscleWiki from workout.lol
 
-## Installation
+## Easy Installation (Recommended)
 
 1. Download the [latest release](https://github.com/buidlcat/workout-lol-ext/releases/tag/v1.0)
 2. Unzip the file
@@ -10,6 +10,18 @@ Add links to MuscleWiki from workout.lol
 4. Enable `Developer mode`
 5. Click `Load unpacked`
 6. Select the unzipped folder
+    * You can delete the .zip file but keep the unzipped folder
+
+## Build and Install from Source
+
+1. Clone the repo
+2. Run `npm install`
+3. Run `npm run build`
+4. Unzip the new `release.zip` file
+5. Go to `chrome://extensions`
+6. Enable `Developer mode`
+7. Click `Load unpacked`
+8. Select the unzipped folder
 
 ## Preview
 
