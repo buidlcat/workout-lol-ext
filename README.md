@@ -6,7 +6,7 @@ The female version is a modified version that links to the female MuscleWiki pag
 
 ## Easy Installation (Recommended)
 
-1. Download the [latest release](https://github.com/buidlcat/workout-lol-ext/releases/tag/v1.0)
+1. Download the [latest release](https://github.com/buidlcat/workout-lol-ext/releases)
 2. Unzip the file
 3. Go to `chrome://extensions`
 4. Enable `Developer mode`
