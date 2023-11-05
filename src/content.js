@@ -1,7 +1,7 @@
 const Fuse = require("fuse.js");
 const mwExercises = require("./exercises.json");
 
-const USE_FEMALE_URL = true;
+const USE_FEMALE_URL = false;
 
 // Fuzzy search
 const fuse = new Fuse(mwExercises, {
