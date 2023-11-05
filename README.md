@@ -1,6 +1,8 @@
 # Workout.lol Extension
 
-Add links to MuscleWiki from workout.lol
+Adds MuscleWiki links to workout.lol. This extension is not affiliated with workout.lol or MuscleWiki.
+
+The female version is a modified version that links to the female MuscleWiki pages instead of the male ones. It can be found on the [releases page](https://github.com/buidlcat/workout-lol-ext/releases).
 
 ## Easy Installation (Recommended)
 
